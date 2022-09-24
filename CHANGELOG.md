@@ -1,3 +1,10 @@
+## [1.4.1](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.4.0...v1.4.1) (2022-09-24)
+
+
+### Bug Fixes
+
+* pipeline ([6b31a66](https://github.com/pietervincken/renovate-talk-java-demo-app/commit/6b31a6617edf5934cf789b360ee283c819ab150d))
+
 ## [1.4.0](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.3.0...v1.4.0) (2022-09-24)
 
 
