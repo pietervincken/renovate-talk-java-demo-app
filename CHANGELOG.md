@@ -1,3 +1,10 @@
+## [1.4.6](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.4.5...v1.4.6) (2022-10-03)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.microsoft.azure:applicationinsights-web to v2.6.4 ([6dcbe0b](https://github.com/pietervincken/renovate-talk-java-demo-app/commit/6dcbe0b9cc02ceba87738ef3305357245490e50c))
+
 ## [1.4.5](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.4.4...v1.4.5) (2022-09-30)
 
 
