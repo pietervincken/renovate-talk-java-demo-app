@@ -1,3 +1,10 @@
+## [1.5.1](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.5.0...v1.5.1) (2023-01-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.azure.spring:azure-spring-boot-bom to v3.14.0 ([092dfee](https://github.com/pietervincken/renovate-talk-java-demo-app/commit/092dfee37fde4dba7ae7c8e79e77679820734d55))
+
 ## [1.5.0](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.4.12...v1.5.0) (2023-01-13)
 
 
