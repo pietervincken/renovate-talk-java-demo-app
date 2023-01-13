@@ -1,3 +1,10 @@
+## [1.6.0](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.5.2...v1.6.0) (2023-01-13)
+
+
+### Features
+
+* remove unused text ([7930f04](https://github.com/pietervincken/renovate-talk-java-demo-app/commit/7930f04947b9219be0671d45ed3d14374816be1b))
+
 ## [1.5.2](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.5.1...v1.5.2) (2023-01-13)
 
 
