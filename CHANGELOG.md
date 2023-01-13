@@ -1,3 +1,10 @@
+## [1.7.0](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.6.0...v1.7.0) (2023-01-13)
+
+
+### Features
+
+* rainbow ([dce1357](https://github.com/pietervincken/renovate-talk-java-demo-app/commit/dce135746c41210e4183fb2abbab9e7311b2e63e))
+
 ## [1.6.0](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.5.2...v1.6.0) (2023-01-13)
 
 
