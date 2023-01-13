@@ -1,3 +1,10 @@
+## [1.5.0](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.4.12...v1.5.0) (2023-01-13)
+
+
+### Features
+
+* remove unused property default ([0880282](https://github.com/pietervincken/renovate-talk-java-demo-app/commit/0880282e1be00a62cee0a2925e7c4537018ddb24))
+
 ## [1.4.12](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.4.11...v1.4.12) (2023-01-13)
 
 
