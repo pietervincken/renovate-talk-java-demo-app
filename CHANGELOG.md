@@ -1,3 +1,10 @@
+## [1.5.2](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.5.1...v1.5.2) (2023-01-13)
+
+
+### Bug Fixes
+
+* **deps:** update dependency com.azure.spring:azure-spring-boot-starter-active-directory to v3.14.0 ([72a13df](https://github.com/pietervincken/renovate-talk-java-demo-app/commit/72a13df3fc321398641090493cdce2602ed13dce))
+
 ## [1.5.1](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.5.0...v1.5.1) (2023-01-13)
 
 
