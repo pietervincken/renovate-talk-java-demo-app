@@ -47,12 +47,12 @@
 		<dependency>
 			<groupId>com.microsoft.azure</groupId>
 			<artifactId>applicationinsights-spring-boot-starter</artifactId>
-			<version>2.6.4</version>
+			<version>2.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>com.microsoft.azure</groupId>
 			<artifactId>applicationinsights-core</artifactId>
-			<version>2.6.4</version>
+			<version>2.6.0</version>
 		</dependency>
 		<dependency>
 			<groupId>com.microsoft.azure</groupId>
@@ -64,7 +64,7 @@
 		<dependency>
 			<groupId>com.azure.spring</groupId>
 			<artifactId>azure-spring-boot-starter-active-directory</artifactId>
-			<version>3.14.0</version>
+			<version>3.3.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.springframework.boot</groupId>
@@ -77,7 +77,7 @@
 			<dependency>
 				<groupId>com.azure.spring</groupId>
 				<artifactId>azure-spring-boot-bom</artifactId>
-				<version>3.14.0</version>
+				<version>3.2.0</version>
 				<type>pom</type>
 				<scope>import</scope>
 			</dependency>
