@@ -24,7 +24,7 @@ spec:
       description: The calculated version
   steps:
     - name: semantic-versioning
-      image: pietervincken/semanticversioning:0.0.5
+      image: pietervincken/semanticversioning:0.0.6
       workingDir: $(workspaces.source.path)
       script: |
         #!/usr/bin/env sh
