@@ -1,7 +1,8 @@
 # Forked from https://github.com/benc-uk/java-demoapp
 
 Adapted for the renovate talk.
-🐱
+🐱 
+:dog:
 
 # Java - Demo Web Application
 
