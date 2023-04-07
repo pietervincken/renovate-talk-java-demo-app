@@ -1,3 +1,10 @@
+## [1.8.3](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.8.2...v1.8.3) (2023-04-07)
+
+
+### Bug Fixes
+
+* pipeline ([e5670ba](https://github.com/pietervincken/renovate-talk-java-demo-app/commit/e5670ba394c43710a0893a509cde8d31a75f3a48))
+
 ## [1.8.2](https://github.com/pietervincken/renovate-talk-java-demo-app/compare/v1.8.1...v1.8.2) (2023-01-31)
 
 
